@@ -13,5 +13,10 @@
     "autoprefixer": "^9.7.5",
     "sass": "^1.26.8",
     "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@cycle/dom": "^22.7.0",
+    "@cycle/rxjs-run": "^10.5.0",
+    "rxjs": "^6.5.5"
   }
 }
